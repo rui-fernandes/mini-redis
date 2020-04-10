@@ -1,0 +1,1 @@
+This a simple, custom implementation of Redis.
