@@ -1,1 +1,2 @@
-This a simple, custom implementation of Redis.
+# Redis API
+A simple implementation of a redis api for exploration and learning purposes.
